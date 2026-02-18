@@ -1,0 +1,129 @@
+
+*{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  
+}
+.row {
+  display: flex;
+  align-items: flex-start; 
+  gap: 50px;              
+  margin-bottom: 20px;
+}
+
+
+.img4cv {
+  width: 200px;            
+  height: 200px;
+  border-radius: 50%;      
+  object-fit: cover;
+  flex-shrink: 0;     
+  filter: drop-shadow(10px 10px 20px);    
+
+}
+
+
+.header-text {
+  flex-grow: 1;  
+  color: white;    
+  
+}
+
+.name {
+  margin-top: 0;          
+  font-size: 2.5rem;
+ 
+  
+}
+
+
+.subtitle {  
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.summary h2 {
+  margin-top: 20px;
+  font-size: 25px;
+}
+.resume-header{
+  background-color:#7F1D1D;
+  padding: 20px;
+  padding-top: 30px;
+  padding-left: 30px;
+  
+
+}
+.subtitle{
+  color: whitesmoke;
+}
+.experience{
+  margin-right: 350px;
+  padding-left: 10px;
+  font-size: 16px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+  
+}
+.Ex_Act{
+  padding-left: 400px;
+  text-decoration: underline;
+  text-underline-offset: 3px
+  
+}
+
+.experience1{
+  padding: 5px 10px 15px 15px;
+}
+
+
+.Edu{
+  margin-right: 750px;
+  padding-left: 30px;
+  font-size: 16px;
+
+}
+
+.hellooo{
+  display: flex;
+
+}
+
+.helloo{
+  width: 1350px;
+  
+}
+.contact{
+ margin-left: -300px;
+}
+.ruler{
+  margin-left: 0px;
+  width: 75%;
+  margin-right: auto;
+  height: 5px;
+  background-color: #7F1D1D;
+}
+.line{
+  height: 5px;
+  background-color: #7F1D1D;
+}
+.aupp{
+  width: 1000px;
+}
+.logo{
+  width: 90px;
+   margin-top: -20px;
+ 
+
+}
+.com2{
+  margin-top: -40px;
+}
+.logo2{
+  width: 90px;
+     margin-top: -15px;
+}
+.git{
+  margin-top: -10px;
+}
